@@ -17,16 +17,11 @@
 
 ---
 
-## 🙋‍♂️ About Me
-
-- 🔭 Currently working on: **Cloud-native microservices**
-- 🌱 Learning: **Distributed Systems | Dharma**
-- 👯 Open to collaborating on: **DevOps & Cloud Projects**
-- 🤝 Seeking help with: **Consistency in learning**
-- 💬 Ask me about: **Mental wellness, Cloud, and Career**
-- 📫 Contact me at: **P.visal6927@gmail.com**
-- 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: **My debugging is 70% spiritual and 30% logical.**
+Cloud-native microservices (current work)
+Distributed systems (learning focus)
+DevOps & cloud projects (open to collab)
+Consistency in learning (main pain point)
+Cloud architecture, career paths (happy to discuss)
 
 
 ## 🛠️ Languages & Tools
