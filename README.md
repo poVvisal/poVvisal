@@ -32,23 +32,20 @@
 
 ---
 
-## 🏅 Certifications
+## 🎓 AWS Academy Training Badges
 
 <p align="center">
-  <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="120" alt="AWS Solutions Architect Associate" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="120" alt="AWS Cloud Practitioner" />
+  <img src="https://img.shields.io/badge/AWS%20Academy-Cloud%20Architecting-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20Academy-Cloud%20Developing-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS%20Solutions%20Architect-Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-Foundational-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20Academy-Cloud%20Foundations-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20Academy-Cloud%20Operations-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
 
 ---
 
 ## 🛠️ Tech Stack
-
 
 ### ⚙️ Backend
 <p>
