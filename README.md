@@ -35,12 +35,21 @@
 ## 🎓 AWS Academy Training Badges
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS%20Academy-Cloud%20Architecting-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS%20Academy-Cloud%20Developing-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS%20Academy-Cloud%20Foundations-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS%20Academy-Cloud%20Operations-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <a href="https://www.credly.com/badges/9f7e4185-d2cf-4b4e-a4de-a7988121e425/public_url" target="_blank">
+    <img src="https://images.credly.com/images/fcafd0c9-42da-4703-a191-0c397203dc1b/blob" width="130" alt="AWS Academy Graduate - Cloud Architecting" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/51b44bfe-0e50-44d5-873d-5e77e61ff798/public_url" target="_blank">
+    <img src="https://images.credly.com/images/bb3211c0-a562-44ec-a8b5-df54deb0e5e9/blob" width="130" alt="AWS Academy Graduate - Cloud Developing" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/3e1efe88-99a5-48a2-bb3d-d8d1add751cd/public_url" target="_blank">
+    <img src="https://images.credly.com/images/07e7ba52-aea4-431f-ba2d-a4113efd1d5a/blob" width="130" alt="AWS Academy Graduate - Cloud Operations" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/0e0a0aa8-9668-4a96-a62d-574a8bccaa3f/public_url" target="_blank">
+    <img src="https://images.credly.com/images/e3541a0c-dd4a-4820-8052-5001006efc85/blob" width="130" alt="AWS Academy Graduate - Cloud Foundations" />
+  </a>
 </p>
 
 ---
